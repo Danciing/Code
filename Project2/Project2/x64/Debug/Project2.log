@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\YztHowe\Desktop\Code\Project2\Project2\源.cpp(8,8): error C2664: “void geta(const int *)”: 无法将参数 1 从“int [3][3]”转换为“const int *”
+C:\Users\YztHowe\Desktop\Code\Project2\Project2\源.cpp(8,7): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\YztHowe\Desktop\Code\Project2\Project2\源.cpp(3,6): message : 参见“geta”的声明

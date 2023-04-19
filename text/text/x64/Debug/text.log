@@ -1,0 +1,3 @@
+﻿  引用.cpp
+C:\Users\YztHowe\Desktop\Code\text\text\引用.cpp(11,9): error C2660: “std::queue<int,std::deque<int,std::allocator<int>>>::pop”: 函数不接受 1 个参数
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\queue(116,10): message : 参见“std::queue<int,std::deque<int,std::allocator<int>>>::pop”的声明

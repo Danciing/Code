@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\YztHowe\Desktop\Code\最少布线\最少布线\源.cpp(20,12): warning C4101: “a”: 未引用的局部变量
+C:\Users\YztHowe\Desktop\Code\最少布线\最少布线\源.cpp(20,15): warning C4101: “b”: 未引用的局部变量
+  最少布线.vcxproj -> C:\Users\YztHowe\Desktop\Code\最少布线\x64\Debug\最少布线.exe

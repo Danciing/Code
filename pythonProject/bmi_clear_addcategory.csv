@@ -1,0 +1,295 @@
+N,Sex,Year,Weight,Height,BMI,BMI_Type
+1,Female,1988,50,1.61,19.28937927,Normal weight
+2,Female,2003,44.6,1.63,16.78648048,Underweight
+3,Female,2003,57.2,1.7,19.79238754,Normal weight
+4,Male,2003,74.5,1.83,22.24611066,Normal weight
+5,Female,2003,63,1.61,24.30461788,Normal weight
+6,Male,2003,88.5,1.78,27.93207928,Pre-obesity
+7,Male,2003,75.5,1.76,24.37370868,Normal weight
+8,Female,2002,52,1.68,18.42403628,Underweight
+9,Male,2002,69.1,1.79,21.56611841,Normal weight
+10,Male,2002,54,1.65,19.83471074,Normal weight
+11,Male,2003,63,1.7,21.79930796,Normal weight
+12,Male,2003,56.5,1.75,18.44897959,Underweight
+13,Male,2002,78.6,1.83,23.47039326,Normal weight
+14,Male,2004,64.6,1.72,21.83612764,Normal weight
+15,Female,2002,55,1.63,20.70081674,Normal weight
+16,Male,2003,55,1.71,18.80920625,Normal weight
+17,Female,2002,43.5,1.58,17.42509213,Underweight
+18,Male,2002,95,1.86,27.45982194,Pre-obesity
+19,Female,2002,60,1.65,22.03856749,Normal weight
+20,Female,2003,52.5,1.63,19.75987053,Normal weight
+21,Male,2003,58.6,1.73,19.57967189,Normal weight
+22,Female,2003,50.5,1.62,19.24249352,Normal weight
+23,Male,2002,69.4,1.73,23.1882121,Normal weight
+24,Male,2003,61,1.84,18.01748582,Underweight
+25,Female,2003,60.8,1.68,21.54195011,Normal weight
+26,Male,2003,66.1,1.78,20.86226487,Normal weight
+27,Female,2004,66.5,1.6,25.9765625,Pre-obesity
+28,Male,2003,56.2,1.76,18.14307851,Underweight
+29,Female,2003,55,1.68,19.48696145,Normal weight
+30,Female,2003,60,1.6,23.4375,Normal weight
+31,Female,2003,57,1.61,21.98989237,Normal weight
+32,Female,2003,47,1.6,18.359375,Underweight
+33,Female,2003,68.5,1.72,23.15440779,Normal weight
+35,Male,2002,56,1.77,17.87481247,Underweight
+36,Male,2003,75,1.75,24.48979592,Normal weight
+37,Male,2004,62,1.77,19.78997095,Normal weight
+38,Male,2003,46,1.77,14.68288168,Underweight
+39,Female,2002,55,1.68,19.48696145,Normal weight
+40,Female,2003,46,1.57,18.66201469,Normal weight
+41,Female,2003,50,1.61,19.28937927,Normal weight
+42,Male,2003,67.2,1.79,20.97312818,Normal weight
+43,Female,2003,49,1.69,17.15626204,Underweight
+44,Female,2003,56,1.63,21.07719523,Normal weight
+45,Male,2003,61.5,1.71,21.03211244,Normal weight
+46,Female,2003,52.2,1.55,21.72736733,Normal weight
+47,Female,2003,44.2,1.58,17.70549591,Underweight
+48,Female,2003,50,1.6,19.53125,Normal weight
+49,Male,2002,58.5,1.71,20.00615574,Normal weight
+50,Male,2002,70,1.74,23.1206236,Normal weight
+51,Male,2003,72.6,1.83,21.67876019,Normal weight
+52,Male,2003,46.2,1.68,16.36904762,Underweight
+54,Female,2003,43.1,1.54,18.17338506,Underweight
+56,Male,2003,62.5,1.75,20.40816327,Normal weight
+57,Female,2003,48,1.58,19.22768787,Normal weight
+58,Female,2003,50,1.58,20.02884153,Normal weight
+59,Male,2003,65,1.8,20.0617284,Normal weight
+60,Male,2003,55.1,1.65,20.23875115,Normal weight
+61,Male,2002,56,1.68,19.84126984,Normal weight
+62,Male,2002,70.1,1.7,24.25605536,Normal weight
+63,Male,2003,57,1.8,17.59259259,Underweight
+64,Female,2003,50,1.6,19.53125,Normal weight
+65,Male,2003,74.6,1.81,22.77097769,Normal weight
+66,Male,2003,72,1.8,22.22222222,Normal weight
+67,Female,2002,46.3,1.5,20.57777778,Normal weight
+68,Female,2002,50,1.6,19.53125,Normal weight
+69,Male,2003,62,1.79,19.35020755,Normal weight
+70,Male,2003,60,1.75,19.59183673,Normal weight
+71,Female,2003,53,1.66,19.23356075,Normal weight
+72,Female,2003,50,1.63,18.81892431,Normal weight
+73,Female,2002,56.5,1.59,22.34879949,Normal weight
+74,Male,2002,63,1.72,21.29529475,Normal weight
+75,Female,2003,64,1.65,23.50780533,Normal weight
+76,Male,2003,70,1.76,22.5981405,Normal weight
+77,Female,2003,53.5,1.64,19.89143367,Normal weight
+78,Male,2003,46.8,1.71,16.00492459,Underweight
+79,Male,2003,57.2,1.7,19.79238754,Normal weight
+80,Male,2003,65,1.7,22.49134948,Normal weight
+81,Female,2002,71.5,1.59,28.28210909,Pre-obesity
+82,Female,2002,40,1.62,15.24157903,Underweight
+83,Female,2002,54.4,1.63,20.47498965,Normal weight
+84,Female,2002,43.3,1.55,18.02289282,Underweight
+85,Female,2003,82,1.64,30.48780488,Obesity class I
+86,Female,2002,55,1.67,19.72103697,Normal weight
+88,Female,2003,58.5,172,0.00197742,Underweight
+90,Male,2002,80,1.76,25.82644628,Pre-obesity
+91,Female,2003,51.3,1.6,20.0390625,Normal weight
+92,Female,2003,50.5,1.65,18.54912764,Normal weight
+93,Female,2004,60.5,1.75,19.75510204,Normal weight
+94,Male,2002,72,1.68,25.51020408,Pre-obesity
+95,Male,2003,51,1.74,16.84502576,Underweight
+96,Female,2003,54,1.62,20.57613169,Normal weight
+97,Male,2003,62,1.7,21.4532872,Normal weight
+98,Male,2003,62.5,1.75,20.40816327,Normal weight
+99,Male,2001,78.8,1.8,24.32098765,Normal weight
+100,Male,2003,74.5,1.75,24.32653061,Normal weight
+102,Male,2003,70,1.75,22.85714286,Normal weight
+103,Male,2003,66.3,1.69,23.21347292,Normal weight
+104,Female,2003,47.5,1.55,19.7710718,Normal weight
+105,Male,2003,66,1.75,21.55102041,Normal weight
+106,Male,2003,53.5,1.76,17.27143595,Underweight
+107,Male,2002,88,1.74,29.06592681,Pre-obesity
+108,Male,2003,82.5,1.76,26.63352273,Pre-obesity
+109,Female,2003,45,1.68,15.94387755,Underweight
+110,Male,2002,80,1.75,26.12244898,Pre-obesity
+111,Male,2003,56,1.78,17.67453604,Underweight
+112,Female,2002,46.5,1.6,18.1640625,Underweight
+114,Male,2003,110,1.71,37.6184125,Obesity class II
+115,Male,2004,64,1.75,20.89795918,Normal weight
+116,Male,2004,64.2,1.64,23.8697204,Normal weight
+117,Female,2002,62,1.74,20.47826661,Normal weight
+118,Male,2003,63,1.79,19.66230767,Normal weight
+119,Female,2003,54.7,1.62,20.84285932,Normal weight
+120,Male,2003,78,1.8,24.07407407,Normal weight
+121,Female,2002,65,1.7,22.49134948,Normal weight
+122,Male,2002,88,1.83,26.27728508,Pre-obesity
+123,Female,2003,56,1.63,21.07719523,Normal weight
+124,Female,2003,55.2,1.63,20.77609244,Normal weight
+127,Male,2003,60,1.7,20.76124567,Normal weight
+128,Male,2003,71,1.78,22.40878677,Normal weight
+129,Male,2002,55,1.68,19.48696145,Normal weight
+130,Female,2003,58,1.65,21.30394858,Normal weight
+131,Female,2003,55,1.62,20.95717116,Normal weight
+132,Female,2003,54,1.65,19.83471074,Normal weight
+133,Female,2002,55.5,1.68,19.66411565,Normal weight
+134,Female,2003,47.5,1.57,19.27055864,Normal weight
+135,Male,2003,70,1.78,22.09317005,Normal weight
+136,Female,2001,55,1.55,22.89281998,Normal weight
+137,Male,2003,72.5,1.76,23.40521694,Normal weight
+138,Male,2002,69.9,1.78,22.06160838,Normal weight
+139,Female,2003,64,1.6,25,Pre-obesity
+141,Male,2002,76,1.82,22.94408888,Normal weight
+142,Male,2002,65.5,1.77,20.90714673,Normal weight
+144,Female,2002,44.3,1.51,19.42897241,Normal weight
+145,Male,2003,51.8,1.68,18.3531746,Underweight
+146,Male,2002,82,1.72,27.71768524,Pre-obesity
+147,Male,2000,65,175,0.002122449,Underweight
+148,Male,2002,78.6,1.75,25.66530612,Pre-obesity
+149,Male,2002,65.5,1.78,20.67289484,Normal weight
+150,Male,2002,56.5,1.73,18.87801129,Normal weight
+151,Male,2002,49,1.6,19.140625,Normal weight
+152,Female,2003,55,1.55,22.89281998,Normal weight
+153,Female,2004,52.5,1.61,20.25384823,Normal weight
+154,Male,2002,59.6,1.68,21.11678005,Normal weight
+155,Male,2003,60,1.73,20.04744562,Normal weight
+156,Female,2003,54.6,1.58,21.87149495,Normal weight
+157,Female,2003,44,1.58,17.62538055,Underweight
+159,Female,2003,61.2,1.68,21.68367347,Normal weight
+160,Male,2002,45,1.88,12.73200543,Underweight
+161,Female,2003,55,1.62,20.95717116,Normal weight
+162,Male,2002,70.2,1.76,22.66270661,Normal weight
+163,Female,2002,55.7,1.57,22.59726561,Normal weight
+164,Female,2003,56.5,1.65,20.75298439,Normal weight
+165,Female,2003,45,1.63,16.93703188,Underweight
+166,Female,2002,46.3,1.54,19.52268511,Normal weight
+167,Female,2004,48,1.69,16.80613424,Underweight
+168,Female,2002,54.5,1.62,20.76665143,Normal weight
+169,Female,2003,56,1.65,20.56932966,Normal weight
+170,Male,2004,51,1.73,17.04032878,Underweight
+171,Male,2002,60,1.72,20.2812331,Normal weight
+172,Male,2003,67.8,1.86,19.59764135,Normal weight
+173,Male,2003,65,1.74,21.46915048,Normal weight
+174,Male,2002,68.5,1.73,22.88750042,Normal weight
+176,Male,20021,75,1.8,23.14814815,Normal weight
+177,Male,2002,55,1.84,16.2452741,Underweight
+178,Female,2003,52.7,1.68,18.67205215,Normal weight
+179,Male,2003,65,1.78,20.51508648,Normal weight
+181,Male,2003,60,1.7,20.76124567,Normal weight
+182,Male,2002,59.8,1.73,19.9806208,Normal weight
+183,Female,2002,47.3,1.63,17.8027024,Underweight
+184,Male,2002,62,1.75,20.24489796,Normal weight
+185,Female,2004,63,1.72,21.29529475,Normal weight
+186,Female,2003,49.8,1.58,19.94872617,Normal weight
+187,Male,2004,58,1.73,19.37919743,Normal weight
+188,Male,2003,60.5,1.76,19.53125,Normal weight
+189,Male,2003,61.1,1.75,19.95102041,Normal weight
+190,Male,2003,64.5,1.7,22.3183391,Normal weight
+191,Male,2002,67,1.75,21.87755102,Normal weight
+192,Male,2003,62.4,1.77,19.91764819,Normal weight
+193,Male,2002,70,1.75,22.85714286,Normal weight
+194,Male,2003,75,1.87,21.44756785,Normal weight
+195,Female,2002,69,1.7,23.87543253,Normal weight
+196,Female,2003,48.6,1.57,19.71682421,Normal weight
+197,Female,2003,48,1.55,19.97918835,Normal weight
+198,Male,2002,65,1.75,21.2244898,Normal weight
+199,Female,2003,49.5,1.62,18.86145405,Normal weight
+200,Male,2002,73,1.84,21.56190926,Normal weight
+202,Male,2003,60,1.8,18.51851852,Normal weight
+204,Female,2003,51.5,1.66,18.68921469,Normal weight
+205,Female,2004,53.2,1.61,20.52389954,Normal weight
+206,Female,2002,57,1.66,20.68515024,Normal weight
+207,Female,2003,57.2,1.67,20.50987845,Normal weight
+208,Female,2003,47.5,1.67,17.03180465,Underweight
+209,Female,2003,53,1.58,21.23057202,Normal weight
+210,Female,2003,47.3,1.61,18.24775279,Underweight
+211,Female,2003,50.5,1.64,18.77602617,Normal weight
+212,Male,2003,65,1.78,20.51508648,Normal weight
+213,Female,2003,54.6,1.72,18.45592212,Underweight
+214,Male,2003,64,1.79,19.97440779,Normal weight
+215,Male,2003,75,1.75,24.48979592,Normal weight
+216,Female,2002,50.9,1.61,19.63658809,Normal weight
+217,Female,2003,62.5,1.63,23.52365539,Normal weight
+218,Female,2003,47.5,1.55,19.7710718,Normal weight
+219,Male,2003,70,1.85,20.45288532,Normal weight
+221,Female,2003,55,1.66,19.95935549,Normal weight
+222,Male,2002,64,1.74,21.13885586,Normal weight
+224,Male,2002,65,1.75,21.2244898,Normal weight
+225,Female,2003,46.5,1.59,18.39325976,Underweight
+226,Male,2003,68,1.78,21.46193662,Normal weight
+227,Female,2003,42,1.5,18.66666667,Normal weight
+228,Male,2004,50,1.75,16.32653061,Underweight
+229,Male,2004,65,1.78,20.51508648,Normal weight
+230,Female,2003,46.7,1.74,15.42475888,Underweight
+231,Male,2003,56,1.77,17.87481247,Underweight
+232,Male,2002,85,1.75,27.75510204,Pre-obesity
+234,Female,2003,55,1.68,19.48696145,Normal weight
+235,Male,2004,72,1.71,24.62296091,Normal weight
+236,Male,2001,54,1.67,19.36247266,Normal weight
+237,Male,2003,75,1.75,24.48979592,Normal weight
+238,Female,2003,45,1.52,19.47714681,Normal weight
+239,Female,2003,53.2,1.63,20.02333547,Normal weight
+240,Female,2003,49.8,1.61,19.21222175,Normal weight
+241,Male,2003,71,1.71,24.28097534,Normal weight
+243,Male,2003,60,1.7,20.76124567,Normal weight
+244,Male,2003,67,1.82,20.22702572,Normal weight
+245,Female,2003,55,1.61,21.21831719,Normal weight
+246,Female,2002,50.1,1.7,17.33564014,Underweight
+247,Female,2002,57,1.6,22.265625,Normal weight
+248,Male,2002,65,1.67,23.30668005,Normal weight
+249,Male,2003,80,1.95,21.03879027,Normal weight
+250,Male,2004,55,1.7,19.03114187,Normal weight
+251,Female,2003,60,1.62,22.86236854,Normal weight
+252,Male,2004,54,1.62,20.57613169,Normal weight
+253,Male,2002,54,1.72,18.25310979,Underweight
+254,Female,2003,55,1.6,21.484375,Normal weight
+256,Male,2002,61,1.76,19.69266529,Normal weight
+257,Male,2003,50,1.65,18.36547291,Underweight
+258,Male,2003,67.8,1.82,20.46854245,Normal weight
+259,Male,2003,80,1.73,26.7299275,Pre-obesity
+260,Male,2002,55.5,1.75,18.12244898,Underweight
+261,Male,2003,56.6,1.75,18.48163265,Underweight
+262,Female,2003,52,1.59,20.56880661,Normal weight
+263,Female,2004,58,1.58,23.23345618,Normal weight
+264,Female,2003,50,1.6,19.53125,Normal weight
+265,Female,2003,65,1.6,25.390625,Pre-obesity
+266,Female,2003,59.4,1.7,20.55363322,Normal weight
+267,Female,2003,55,1.7,19.03114187,Normal weight
+268,Male,2003,67.4,1.76,21.75878099,Normal weight
+269,Male,2002,61.3,1.71,20.96371533,Normal weight
+270,Female,2003,59.3,1.6,23.1640625,Normal weight
+271,Female,2003,46.7,1.58,18.70693799,Normal weight
+272,Female,2003,47,1.67,16.8525225,Underweight
+273,Female,2002,45.5,1.65,16.71258035,Underweight
+274,Male,2002,70.5,1.8,21.75925926,Normal weight
+275,Male,2003,62,1.73,20.71569381,Normal weight
+276,Male,2003,65,1.73,21.71806609,Normal weight
+277,Female,2003,50,1.58,20.02884153,Normal weight
+278,Female,2003,62,1.8,19.13580247,Normal weight
+279,Male,2003,72,1.72,24.33747972,Normal weight
+280,Male,2003,65.5,1.69,22.93337068,Normal weight
+281,Female,2003,56.9,1.62,21.68114617,Normal weight
+282,Male,2003,83.5,1.83,24.93356027,Pre-obesity
+283,Female,2003,55,1.64,20.44913742,Normal weight
+284,Male,2003,53,1.69,18.55677322,Normal weight
+285,Female,2003,67,1.65,24.6097337,Normal weight
+286,Male,2003,55.4,1.72,18.72633856,Normal weight
+287,Female,2002,47,1.58,18.82711104,Normal weight
+288,Female,2003,50.6,1.56,20.79224195,Normal weight
+289,Female,2003,54.5,1.65,20.01836547,Normal weight
+290,Female,2003,53,165,0.00194674,Underweight
+291,Female,2002,43.2,1.59,17.08793165,Underweight
+292,Male,2002,61,1.76,19.69266529,Normal weight
+293,Female,2002,48,1.69,16.80613424,Underweight
+294,Female,2002,50,1.58,20.02884153,Normal weight
+295,Male,2003,92,1.74,30.3871053,Obesity class I
+296,Female,2002,49,1.57,19.8791026,Normal weight
+297,Female,2003,59.5,1.62,22.6718488,Normal weight
+298,Female,2003,49.5,1.58,19.82855312,Normal weight
+299,Male,2003,60,1.8,18.51851852,Normal weight
+300,Male,2002,62.5,1.7,21.62629758,Normal weight
+301,Male,2004,60,1.7,20.76124567,Normal weight
+302,Male,2003,70,1.7,24.22145329,Normal weight
+303,Male,2002,54.2,1.73,18.10952588,Underweight
+305,Female,2003,45.6,1.56,18.73767258,Normal weight
+306,Female,2003,42,1.55,17.4817898,Underweight
+307,Male,2003,77.5,1.8,23.91975309,Normal weight
+309,Male,2003,58.7,1.69,20.55250166,Normal weight
+310,Male,2002,65.8,1.75,21.48571429,Normal weight
+312,Female,2003,56,1.68,19.84126984,Normal weight
+313,Female,2003,53.7,1.65,19.72451791,Normal weight
+314,Female,2002,50,1.6,19.53125,Normal weight
+315,Female,2003,45,1.57,18.25631871,Underweight
+316,Female,2003,61.2,1.63,23.03436336,Normal weight
+317,Female,2002,54.9,1.58,21.991668,Normal weight
+318,Male,2003,75.2,1.83,22.45513452,Normal weight
