@@ -1,0 +1,28 @@
+method[row]	node	parent	height	start.x	start.y	end.x	end.y	content
+example1[3]	0	-1	0	5	8	5	36	first-statement@int length=numbers.length;
+example1[3]	1	-1	0	13	8	13	34	after-branch@med=numbers[length / 2];
+example1[3]	2	-1	0	21	8	21	38	after-branch@var=varsum / (length - 1.0);
+example1[3]	3	-1	0	9	8	12	9	for-statement@for (int i=0; i < length; i++) {
+example1[3]	4	3	1	9	23	9	33	for-condition@i < length
+example1[3]	5	3	1	11	12	11	30	for-body@sum+=numbers[i];
+example1[3]	6	3	1	9	35	9	38	for-update@i++
+example1[3]	7	-1	0	17	8	20	9	for-statement@for (int i=0; i < length; i++) {
+example1[3]	8	7	1	17	23	17	33	for-condition@i < length
+example1[3]	9	7	1	19	12	19	74	for-body@varsum=varsum + ((numbers[i] - mean) * (numbers[i] - mean));
+example1[3]	10	7	1	17	35	17	38	for-update@i++
+example1[3]	11	-1	0	29	5	29	5	pseudo-return@pseudo-return
+
+method[row]	node	parent	height	start.x	start.y	end.x	end.y	content
+example1[3]	0	-1	0	5	8	5	36	first-statement@int length=numbers.length;
+example1[3]	1	-1	0	13	8	13	34	after-branch@med=numbers[length / 2];
+example1[3]	2	-1	0	21	8	21	38	after-branch@var=varsum / (length - 1.0);
+example1[3]	3	-1	0	9	8	12	9	for-statement@for (int i=0; i < length; i++) {
+example1[3]	4	3	1	9	23	9	33	for-condition@i < length
+example1[3]	5	3	1	11	12	11	30	for-body@sum+=numbers[i];
+example1[3]	6	3	1	9	35	9	38	for-update@i++
+example1[3]	7	-1	0	17	8	20	9	for-statement@for (int i=0; i < length; i++) {
+example1[3]	8	7	1	17	23	17	33	for-condition@i < length
+example1[3]	9	7	1	19	12	19	74	for-body@varsum=varsum + ((numbers[i] - mean) * (numbers[i] - mean));
+example1[3]	10	7	1	17	35	17	38	for-update@i++
+example1[3]	11	-1	0	29	5	29	5	pseudo-return@pseudo-return
+
